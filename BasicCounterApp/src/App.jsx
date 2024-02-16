@@ -5,7 +5,7 @@ import './App.css'
 
 function MyComponent() {
   const [count, setCount] = useState(0)
-  let handleClick =()=>{
+  let handleClick =()=>{np
     setCount(count+1)
   }
   return(
